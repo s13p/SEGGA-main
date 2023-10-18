@@ -178,7 +178,7 @@ flex: 1;
 width: 25rem;
 
 
-background-color: #007bff;
+background-color: #c3a600;
 color: white;
 border: none;
 border-radius: 0;
@@ -858,7 +858,7 @@ font-family: 'Komika Hand', sans-serif;
 }
 .meme {
   color: rgb(255, 255, 255) ;
-  background-color: aqua;
+  background-color: rgb(180, 171, 0);
   text-align: center;
   padding: 30px;
   font-size: 50PX;
